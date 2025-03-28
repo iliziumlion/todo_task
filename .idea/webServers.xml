@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9f7535ca-c176-4205-9228-e801858ec375" name="Devtask" url="https://dev-lion.ru">
+        <fileTransfer rootFolder="/home/bitrix/www" accessType="SFTP" host="217.114.6.243" port="22" sshConfigId="370478ca-389e-4017-b00e-ea21ec80b461" sshConfig="bitrix@217.114.6.243:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
